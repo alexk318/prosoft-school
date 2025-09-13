@@ -41,15 +41,15 @@ int main()
 					    right_y = y;
 					    break;
 				    }
-          }
+          		}
 
-          for (int i = 1; y + i <= height - 1; i++) {
+          		for (int i = 1; y + i <= height - 1; i++) {
 				    if (rows[y + i][x] == '0') {
 					    bottom_x = x;
 					    bottom_y = y + i;
 					    break;
 				    }
-          }
+          		}
 
 			    cout << x << ' ' << y << ' ' << right_x << ' ' << right_y << ' ' << bottom_x << ' ' << bottom_y << endl;
 			}
