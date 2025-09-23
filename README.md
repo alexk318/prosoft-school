@@ -4,6 +4,8 @@
 
 1. [Temperatures](https://www.codingame.com/ide/puzzle/temperatures) <br />
 
+2. [Logic gates](https://www.codingame.com/ide/puzzle/logic-gates) <br />
+
 2. [MIME Type](https://www.codingame.com/ide/puzzle/mime-type) <br />
 
 3. [Defibrillators](https://www.codingame.com/ide/puzzle/defibrillators) <br />
