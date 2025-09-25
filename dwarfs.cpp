@@ -1,3 +1,5 @@
+// https://www.codingame.com/ide/puzzle/dwarfs-standing-on-the-shoulders-of-giants
+
 #include <iostream>
 #include <vector>
 #include <set>
