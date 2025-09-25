@@ -17,3 +17,5 @@
 7. [There is no Spoon - Episode 1](https://www.codingame.com/ide/puzzle/there-is-no-spoon-episode-1) <br />
 
 8. [Death First Search - Episode 1](https://www.codingame.com/ide/puzzle/death-first-search-episode-1) <br />
+
+9. [Dwarfs standing on the shoulders of giants](https://www.codingame.com/ide/puzzle/dwarfs-standing-on-the-shoulders-of-giants) <br />
